@@ -1,0 +1,24 @@
+{
+    "status":"0",
+    "msg":"",
+    "data":[
+        {
+            "productId":"100001",
+            "productName":"小米6",
+            "productPrice":2499,
+            "productImg":"/static/1.jpg"
+        },
+        {
+            "productId":"100002",
+            "productName":"小米5",
+            "productPrice":2299,
+            "productImg":"/static/2.jpg"
+        },
+        {
+            "productId":"100003",
+            "productName":"小米4",
+            "productPrice":2399,
+            "productImg":"/static/3.jpg"
+        }
+    ]
+}
